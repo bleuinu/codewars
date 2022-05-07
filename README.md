@@ -1,2 +1,3 @@
-# codewars
-Practice programming with Codewars
+# Codewars
+
+Practice TypeScript and Ruby with Codewars!
