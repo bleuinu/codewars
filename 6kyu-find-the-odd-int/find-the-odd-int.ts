@@ -24,3 +24,8 @@ export const findOdd = (xs: number[]): number => {
   return xs.reduce( (a,b)=> a^b);
 };
 */
+
+/*
+// I like this one!
+return xs.find(a => xs.filter(b => b === a).length % 2 === 1) || 0;
+*/
