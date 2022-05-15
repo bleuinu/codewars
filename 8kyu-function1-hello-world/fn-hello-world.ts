@@ -4,3 +4,4 @@ export function greet() {
 }
 
 export const greet = () => "hello world!";
+
